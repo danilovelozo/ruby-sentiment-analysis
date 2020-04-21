@@ -7,9 +7,9 @@ A simple sentiment analysis script write in Ruby
 ```
 git clone git@github.com:danilovelozo/ruby-sentiment-analysis.git
 
-bundle install
-
 cd ruby-sentiment-analysis
+
+bundle install
 
 ruby lib/sentiment.rb
 
